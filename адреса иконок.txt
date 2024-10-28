@@ -11,3 +11,7 @@
                                к разблокировке максимум 60с
 Резет высоты - 2002
 сброс alarm - 2003
+32.icl - Paper
+42.icl - Icon_Indicators
+43.icl - Icon_Digital_Height_metr
+44.icl - Icon_digital_speed_metr
