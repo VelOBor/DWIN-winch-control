@@ -13,6 +13,4 @@
 сброс alarm - 2003
 32.icl - Paper
 42.icl - Icon_Indicators
-43.icl - Icon_Digital_Height_metr
-44.icl - Icon_digital_speed_metr
-45.icl - пробная иконка с красной надписью
+43.icl - Digital_Symbol_RED_PNG
