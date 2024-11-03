@@ -1,0 +1,13 @@
+Буровой насос - X,5 ; Y,362
+Шаровый кран - X,265 ; Y362
+Horn - X,355 ;Y,376
+Манипулятор - X,445 ; Y,362
+Нижний захват - X,705 ; Y,362
+Reset - X,356.500 ; Y,240
+Timer - X,356 ; Y,134
+Brake - X,356 ;Y,26
+Digital display1 - X,124 ; Y,392
+Digital display2 - X,565 ; Y,392
+Digital display3_28x38 - X,359 ; Y,162
+Lock pump - X,31 ; Y,388
+Lock манипулятор - X,292 ;  Y,388

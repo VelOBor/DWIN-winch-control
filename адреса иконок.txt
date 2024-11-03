@@ -7,7 +7,9 @@
 Нижний захват - 1006
 Timer indikator - 1007
 Алярма - 1008
-
+Lock pump - 1009
+Lock манипулятор 1010
+ 
 Разблокировка Тормоз лебёдки - 2001 (это поле c diginal indicator) при каждом нажатии +10сек 
                                к разблокировке максимум 60с
 Резет высоты - 2002
@@ -17,3 +19,4 @@ Timer indikator - 1007
 42.icl - Icon_Indicators
 43.icl - Digital_Symbol_RED_PNG
 44.icl - Digital_Symbol_RED_ 24x38
+45.icl - Lock
