@@ -9,5 +9,3 @@ Brake - X,356 ;Y,26
 Digital display1 - X,124 ; Y,392
 Digital display2 - X,565 ; Y,392
 Digital display3_28x38 - X,359 ; Y,162
-Lock pump - X,31 ; Y,388
-Lock манипулятор - X,292 ;  Y,388

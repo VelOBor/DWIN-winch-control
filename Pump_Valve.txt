@@ -1,0 +1,6 @@
+Pump - 00 pump on
+       01 pump off
+       02 pump off+lock
+Valve - 00 valve close
+        01 valve open
+        02 valve open+lock
